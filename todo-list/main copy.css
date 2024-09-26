@@ -1,0 +1,16 @@
+p > span {
+    color: blue;
+}
+
+p > .target {
+    color: pink;
+}
+
+
+.title {
+    color: red;
+}
+
+.title2 {
+    font-size: 150%;
+}
